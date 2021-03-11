@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calendar</string>
+    <string name="mark_the_date">Mark StudyTime</string>
+    <string name="save_date">Add Session</string>
+    <string name="getTime">Choose Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DigitalSpinner">DigitalSpinner</string>
+</resources>
